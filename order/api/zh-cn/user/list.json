@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "is_super":true,
+        "name": "test",
+        "mobile": "131****2389",
+        "email": "test@qq.com",
+        "create_time": "2018-01-01 12:12:12",
+        "status_desc": "启动"
+      },
+      {
+        "id": 2,
+        "is_super":true,
+        "name": "test",
+        "mobile": "131****2389",
+        "email": "test@qq.com",
+        "create_time": "2018-01-01 12:12:12",
+        "status_desc": "启动"
+      },
+      {
+        "id": 3,
+        "is_super":false,
+        "name": "test",
+        "mobile": "131****2389",
+        "email": "test@qq.com",
+        "create_time": "2018-01-01 12:12:12",
+        "status_desc": "启动"
+      }
+    ],
+    "arrPager": {
+      "count": 4,
+      "pageSize": 10,
+      "page": 1
+    }
+  }
+}

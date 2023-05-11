@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "uid": 1,
+    "user_name": "唐勤",
+    "user_role": ["role_super_admin"]
+  }
+}

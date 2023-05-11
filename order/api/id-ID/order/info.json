@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "order_info": {
+      "user_name": "Sinta",
+      "user_id": "101",
+      "order_no": "259162401497946",
+      "product_id": "pinjamlah-app",
+      "num_loan": "1",
+      "create_time": "2019-04-11 17:20:45",
+      "confirm_time": "1554978089",
+      "application_amount": "1000000.00",
+      "application_term": "7",
+      "app_name": "1",
+      "channel": "2",
+      "third_app_name": null,
+      "status_log": [
+        {
+          "create_time": "xx",
+          "stay_time": "xx",
+          "status": "xx",
+          "create_user_name": "xx",
+          "remark": "无"
+        },
+        {
+          "create_time": "xx",
+          "stay_time": "xx",
+          "status": "xx",
+          "create_user_name": "xx",
+          "remark": "无"
+        }
+      ],
+      "approve_log": [
+        {
+          "approvalTime": "xxx",
+          "approver": "xxx",
+          "approveType": "xxxxx",
+          "conclusion": "xxx"
+        }
+      ]
+    },
+    "base_info": {
+      "uid": "101",
+      "name": "Sinta",
+      "phone": "xxx",
+      "idcard": "xxxxx",
+      "level": "B"
+    },
+    "detail_info": {
+      "user_type": "employee",
+      "education": "undergraduate",
+      "loan_purpose": "Travel use",
+      "month_pay": "50000000",
+      "religion": "CATHOLIC",
+      "birthday": "19880512",
+      "marital_status": "Married",
+      "sex": "male",
+      "area": "ACEH,KABUPATEN ACEH SELATAN,gdhsjxbxbxhxhxjdnd,KOTA BAHAGIA,RAMBONG",
+      "work_type": "Employee(private)",
+      "company": "dhdudbvxbcc",
+      "emergs1_name": "aaaaaa",
+      "emergs1_phone": "RENC0100|TkE=|0\/4j29c73bV3+tyniA9g\/Z8m03pH\/6HkyQdbpieaWf8=",
+      "emergs1_relation": "Parents",
+      "emergs2_name": "bbbbbb",
+      "emergs2_phone": "RENC0100|TkE=|oLQsL12PWH9O0Emjsb6jtGLE8mIAYA3f9mLSDU+iDtA=",
+      "emergs2_relation": "Spouse",
+      "gps": "39.976934116.310811",
+      "imei": "863525046422228",
+      "brand": "HUAWEI",
+      "model": "HMA-AL00",
+      "pass_face_photo": "no",
+      "same_person": "no",
+      "confidence_score": "5.0000",
+      "realname_status": "yes",
+      "ocr_name": "MEVI MUTIARA",
+      "ocr_cardno": "3276026404820022",
+      "ocr_area": "JAWA BARATKOTA DEPOKCIMANGGISMEKARSARIPERUM ASURANSI JASINDO D\/21.B",
+      "ocr_status": "yes",
+      "check_address": "yes"
+    },
+    "contract": "http:\/\/api.pinjamlah.co.id\/api\/contract\/getcontract?contractFileName=confirmLoan1&orderNo=bb8b497fa439d27b32d79df198267448&contractPage=1&sign=6f73e76ccf3565ea153afb2182376f8e",
+    "material_info": {
+      "idcard_front": "http:\/\/rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com\/PinjamlahApp\/1904111515355D7Ak1010469325.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555400632&Signature=HMfqvJBBJRjrDEi3VT5SgFGF0kE%3D",
+      "idcard_back": "",
+      "idcard_held": "http:\/\/rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com\/PinjamlahApp\/1904111516348dbhD1018578080.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555400632&Signature=RnXFqsMDayrisOZ5syZ0aKA3D9w%3D",
+      "social_card": "",
+      "credit_card": "",
+      "family_card": "",
+      "face_photo_list": [
+        "http:\/\/rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com\/PinjamlahApp\/19041115213629xSo1018822357.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555400632&Signature=CQVETI%2BVHfzdWv0xk8ALioAtGHs%3D",
+        "http:\/\/rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com\/PinjamlahApp\/190411152139gtoLF1016093037.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555400632&Signature=HW8ht90fqB%2FZt37gVuxw7kEqxOw%3D",
+        "http:\/\/rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com\/PinjamlahApp\/190411152141W47MC1018467868.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555400632&Signature=JWZlwrZevxFkZsZFjEDkiekI%2BQ0%3D",
+        "http:\/\/rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com\/PinjamlahApp\/190411152143cyAnz1019857819.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555400632&Signature=X1cfjDOexksGQr3OkLdPPg6lLPQ%3D"
+      ]
+    }
+  }
+}

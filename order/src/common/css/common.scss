@@ -1,0 +1,201 @@
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.ml10 {
+  margin-left: 10px;
+}
+
+
+.right {
+  float: right;
+}
+
+.fix-form-btn {
+  .ivu-form-item-label{
+    padding: 0;
+  }
+  button {
+   
+  }
+}
+
+.fix-table-btn {
+  margin:0 5px;  
+  &:focus {
+    box-shadow: none;
+  }
+  &:hover {
+    background-color: transparent;
+  }
+  &[disabled]{
+    background-color: transparent;
+    &:hover {
+      background-color: transparent;
+    }
+  }
+}
+
+.collapse_ul{
+  margin-bottom: 15px;
+  .title{
+    font-size: 14px;
+  }
+  ul {
+    list-style: none;
+    font-size: 14px;
+    li {
+      .stro {
+        text-align: right;
+        font-weight: bold;
+      }
+      line-height: 2.2;
+      border-bottom: 1px solid #f4f4f4;
+    }
+  }
+}
+.border-line {
+  width: 1px;
+  height: 22px;
+  background-color: #c3cbdd;
+  float: left;
+}
+
+.action-left-border {
+  position: relative;
+  &::before {
+    position: absolute;
+    left: -5px;
+    display: inline-block;
+    width: 1px;
+    height: 100%;
+    border-left: solid 1px #7E8695;
+  }
+}
+
+.m-modal {
+  .header {
+    font-size: 16px;
+    text-align: left;
+  }
+  .content {
+    width: 100%;
+  }
+  .ivu-modal-body {
+    padding: 16px 60px 16px 50px;
+  }
+}
+
+.m-date-picker {
+  width: 100%;
+}
+
+.m-pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+@keyframes ani-demo-spin {
+  from { transform: rotate(0deg);}
+  50%  { transform: rotate(180deg);}
+  to   { transform: rotate(360deg);}
+}
+.m-loading .spin-icon {
+  animation: ani-demo-spin 1s linear infinite;
+}
+.ivu-btn>.ivu-icon+span, .ivu-btn>span+.ivu-icon {
+  margin-left: 0;
+}
+
+.ivu-layout-sider-children {
+  overflow-y: auto;
+}
+.ivu-layout-sider-zero-width-trigger {
+  display: none;
+}
+
+tr.m-table-top-row  td{
+  color: #f5222c;
+  .ivu-btn-text {
+    color: #f5222c;
+    &:hover {
+      color: #d60812;
+    }
+  }
+}
+
+// warning moal 
+.m-moal-warning{
+  .ivu-icon-android-alert{
+    color:#ed4014;
+    font-size: 30px;
+  }
+}
+
+
+// reset wodre-break
+.ivu-table-cell, th .ivu-table-cell{
+  
+  text-overflow: initial;
+  word-wrap: break-word;
+}
+.ivu-table th{
+  height: 60px;
+}
+
+.locale-select {
+  .ivu-select-selection {
+    background-color: transparent;
+    border: 0;
+    .ivu-select-selected-value {
+      color: #fff;
+      
+    }
+  }
+}
+
+.m-card {
+  margin-bottom: 20px;
+  .card-head {
+    color: #57a3f3;
+  }
+  .text {
+    margin-top: 15px;
+    // padding-left: 60px;
+  }
+}
+
+.m-table {
+  border: 1px solid #e9eaec;
+  border-collapse:collapse; 
+  .col {
+    line-height: 1.5;
+    width: 25%;
+    border-left: 1px solid #e9eaec;
+    border-top: 1px solid #e9eaec;
+    padding: 10px 15px;
+    word-break: break-all;
+    &.title {
+      text-align: center;
+      color: #495060;
+      font-weight: bold;
+      background-color: #f8f8f9;
+    }
+  }
+} 
+
+.ivu-icon-ios-help-circle {
+  left: 20px;
+}
+.ivu-select,
+.ivu-input-wrapper {
+  width: 180px
+}
+
+.ivu-input-number {
+  width: 85px
+}
+.ivu-tabs{
+     overflow: inherit;
+}

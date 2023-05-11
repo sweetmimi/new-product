@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "list": [{
+      "time": "2019-05-09 17:41:02",
+      "enrolment": 29,
+      "numberOfLandings": 20,
+      "numberOfApplications": 12,
+      "rateOfCompoundLoan": "23.5%",
+      "rejectionNumber": 1,
+      "loanAmount": 10,
+      "contractAmount": 500000,
+      "actualLoanAmount":  500000,
+      "actualRepaymentAmount": 2000
+
+    }]
+  }
+}

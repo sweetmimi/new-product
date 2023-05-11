@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "uid": 1,
+        "name": "131****2389",
+        "phone": "fff",
+        "idcard": "分配",
+        "create_time": "2018-01-01 12:12:12"
+      },
+      {
+        "uid": 1,
+        "name": "131****2389",
+        "phone": "fff",
+        "idcard": "分配",
+        "create_time": "2018-01-01 12:12:12"
+      },
+      {
+        "uid": 1,
+        "name": "131****2389",
+        "phone": "fff",
+        "idcard": "分配",
+        "create_time": "2018-01-01 12:12:12"
+      },
+      {
+        "uid": 1,
+        "name": "131****2389",
+        "phone": "fff",
+        "idcard": "分配",
+        "create_time": "2018-01-01 12:12:12"
+      }
+    ],
+    "arrPager": {
+      "count": 45,
+      "pageSize": 10,
+      "page": 1
+    }
+  }
+}

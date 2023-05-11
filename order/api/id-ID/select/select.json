@@ -1,0 +1,248 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "order_list": {
+      "product_name": [
+        {
+          "key": 20000,
+          "value": "pinjamlah"
+        },
+        {
+          "key": 30000,
+          "value": "pinjamlah-app"
+        },
+        {
+          "key": 21000,
+          "value": "Fulus"
+        }
+      ],
+      "app_name": [
+        {
+          "key": 1,
+          "value": "pinjamlah"
+        },
+        {
+          "key": 2,
+          "value": "pinjamlahOnline"
+        },
+        {
+          "key": 3,
+          "value": "pinjamlahPro"
+        }
+      ],
+      "channel": [
+        {
+          "key": 1,
+          "value": "cashcash"
+        },
+        {
+          "key": 2,
+          "value": "app"
+        }
+      ],
+      "order_status": [
+        {
+          "key": 10,
+          "value": "新订单"
+        },
+        {
+          "key": 30,
+          "value": "欺诈拒绝"
+        },
+        {
+          "key": 40,
+          "value": "审批中"
+        },
+        {
+          "key": 50,
+          "value": "审批拒绝"
+        },
+        {
+          "key": 60,
+          "value": "审批通过"
+        },
+        {
+          "key": 70,
+          "value": "贷款取消"
+        },
+        {
+          "key": 80,
+          "value": "放款处理中"
+        },
+        {
+          "key": 85,
+          "value": "待重新放款"
+        },
+        {
+          "key": 90,
+          "value": "放款成功"
+        },
+        {
+          "key": 100,
+          "value": "放款失败"
+        },
+        {
+          "key": 110,
+          "value": "正常还款中"
+        },
+        {
+          "key": 115,
+          "value": "展期处理中"
+        },
+        {
+          "key": 120,
+          "value": "已逾期"
+        },
+        {
+          "key": 130,
+          "value": "提前还款处理中"
+        },
+        {
+          "key": 140,
+          "value": "正常结清"
+        },
+        {
+          "key": 150,
+          "value": "提前结清"
+        },
+        {
+          "key": 160,
+          "value": "逾期结清"
+        }
+      ],
+      "term_unit": [
+        {
+          "key": 1,
+          "value": "天"
+        }
+      ],
+      "time_type": [
+        {
+          "key": 1,
+          "value": "创建时间"
+        },
+        {
+          "key": 2,
+          "value": "申请时间"
+        }
+      ]
+    },
+    "loan_list": {
+      "product_name": [
+        {
+          "key": 20000,
+          "value": "pinjamlah"
+        },
+        {
+          "key": 30000,
+          "value": "pinjamlah-app"
+        },
+        {
+          "key": 21000,
+          "value": "Fulus"
+        }
+      ],
+      "loan_status": [
+        {
+          "key": 90,
+          "value": "放款成功"
+        },
+        {
+          "key": 100,
+          "value": "放款失败"
+        },
+        {
+          "key": 110,
+          "value": "正常还款中"
+        },
+        {
+          "key": 115,
+          "value": "展期处理中"
+        },
+        {
+          "key": 120,
+          "value": "已逾期"
+        },
+        {
+          "key": 130,
+          "value": "提前还款处理中"
+        },
+        {
+          "key": 140,
+          "value": "正常结清"
+        },
+        {
+          "key": 150,
+          "value": "提前结清"
+        },
+        {
+          "key": 160,
+          "value": "逾期结清"
+        }
+      ],
+      "term_unit": [
+        {
+          "key": 1,
+          "value": "天"
+        }
+      ]
+    },
+    "system_role": {
+      "sys_order": {
+        "role_super_admin": "超级管理员"
+      },
+      "sys_approve": {
+        "role_approve_admin": "审批主管",
+        "role_approver": "审批专员"
+      },
+      "sys_cuishou": {
+        "role_cuishou_admin": "催收主管",
+        "role_cuishouer": "催收专员",
+        "role_daihou_admin": "贷后管理员",
+        "role_daihou_checker": "贷后专员"
+      }
+    },
+    "system_name_map":{
+      "sys_order":"订单系统",
+      "sys_approve":"审批系统",
+      "sys_cuishou":"催收系统"
+    },
+    "change_balance": {
+      "fee_type": [
+        {
+          "key": 1,
+          "value": "线下充值"
+        },
+        {
+          "key": 2,
+          "value": "线下提现"
+        },
+        {
+          "key": 3,
+          "value": "手续费充值"
+        },
+        {
+          "key": 4,
+          "value": "银行利息"
+        }
+      ],
+      "pay_channel": [
+        {
+          "key": 1,
+          "value": "bluepay"
+        }
+      ]
+    },
+    "product_name_map":[
+      {
+        "key": 20000,
+        "value" : "3euqeuee"
+      },
+      {
+        "key": 20000,
+        "value" : "3euqeuee"
+      }
+    ]
+  }
+}

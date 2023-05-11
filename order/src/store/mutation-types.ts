@@ -1,0 +1,1 @@
+export const GET_SELECT_ITEMS = 'GET_SELECT_ITEMS'

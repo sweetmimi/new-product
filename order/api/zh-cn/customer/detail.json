@@ -1,0 +1,52 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "user_base_info": {
+      "uid": "108",
+      "name": "Wahyu tri agustin",
+      "phone": "1553172381361283",
+      "idcard": "635135173513691361301371",
+      "level": "A"
+    },
+    "user_detail_info": {
+      "user_type": "employee",
+      "education": "senior high school",
+      "loan_purpose": "Educational expenditure",
+      "month_pay": "3000000",
+      "religion": "MOSLEM",
+      "birthday": "19820813",
+      "marital_status": "Married",
+      "sex": "female",
+      "area": "DKI JAKARTA,KOTA JAKARTA TIMUR,PULO GADUNG,PISANGAN TIMUR,Jl pisangan lama 2 no 15 rt005 rw002",
+      "work_type": "Employee(private)",
+      "company": null,
+      "emergs1_name": "yFLE=",
+      "emergs1_phone": "1773131863913123",
+      "emergs1_relation": "Parents",
+      "emergs2_name": "Ratna ning tyas",
+      "emergs2_phone": "1773131863913123",
+      "emergs2_relation": "Brother/Sister",
+      "pass_face_photo": "yes",
+      "same_person": "yes",
+      "confidence_score": "74.7870",
+      "realname_status": "no",
+      "ocr_name": "1321321",
+      "ocr_cardno": "312313",
+      "ocr_area": "3123123",
+      "ocr_status": "no"
+    },
+    "user_material_info": {
+      "idcard_front": "http://s0.rong360.com/upload/jpg/06/32/0632ea2d3ea1a635ddfe191ec802fa66.jpg",
+      "idcard_back": "http://s0.rong360.com/upload/png/a1/4f/a14f59bf883eceec79551570a0493c34.png",
+      "idcard_held": "http://s0.rong360.com/upload/png/2c/b7/2cb7fb5c9b3ba9a15484ecfc1e45947e.png",
+      "social_card": "",
+      "credit_card": "",
+      "family_card": "",
+      "face_photo_list": [
+        "http://s0.rong360.com/upload/png/a2/5e/a25e0739384967646998d965fcceabb4.png",
+        "http://v2.iviewui.com/dist/e047b9b151ec39dbe25757108d68f9c8.png"
+      ]
+    }
+  }
+}

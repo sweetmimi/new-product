@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": [
+    {
+      "minLoanNum": "1",
+      "maxLoanNum": "3",
+      "loanData": [
+        {
+          "loanTerm": "7",
+          "loanTermUnit": "1",
+          "loanMinAmount": "600000",
+          "loanMaxAmount": "1000000",
+          "loanAmountIncr": "100000",
+          "serviceFeeRate": "15",
+          "interestRate": "1",
+          "allowPrepay": "1",
+          "overdueConfig": [
+            {
+              "overdueDayMin": "1",
+              "overdueDayMin": "1",
+              "overdueDayMax": "7",
+              "overdueRate": "15"
+            },
+            {
+              "overdueDayMin": "8",
+              "overdueDayMax": "-1",
+              "overdueRate": "21"
+            }
+          ]
+        },
+        {
+          "loanTerm": "14",
+          "loanTermUnit": "1",
+          "loanMinAmount": "600000",
+          "loanMaxAmount": "1200000",
+          "loanAmountIncr": "100000",
+          "serviceFeeRate": "15",
+          "interestRate": "1",
+          "allowPrepay": "1",
+          "overdueConfig": [
+            {
+              "overdueDayMin": "1",
+              "overdueDayMax": "7",
+              "rate": "15"
+            },
+            {
+              "overdueDayMin": "8",
+              "overdueDayMax": "-1",
+              "rate": "21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "minLoanNum": "4",
+      "maxLoanNum": "6",
+      "loanData": [
+        {
+          "loanTerm": "7,14",
+          "loanTermUnit": "1",
+          "loanMinAmount": "600000",
+          "loanMaxAmount": "1200000",
+          "loanAmountIncr": "100000",
+          "serviceFeeRate": "15",
+          "interestRate": "1",
+          "allowPrepay": "1",
+          "overdueConfig": [
+            {
+              "overdueDayMin": "1",
+              "overdueDayMax": "7",
+              "rate": "15"
+            },
+            {
+              "overdueDayMin": "8",
+              "overdueDayMax": "-1",
+              "rate": "21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "minLoanNum": "7",
+      "maxLoanNum": "-1",
+      "loanData": [
+        {
+          "loanTerm": "7,14",
+          "loanTermUnit": "1",
+          "loanMinAmount": "600000",
+          "loanMaxAmount": "1500000",
+          "loanAmountIncr": "100000",
+          "serviceFeeRate": "15",
+          "interestRate": "1",
+          "allowPrepay": "1",
+          "overdueConfig": [
+            {
+              "overdueDayMin": "1",
+              "overdueDayMax": "7",
+              "rate": "15"
+            },
+            {
+              "overdueDayMin": "8",
+              "overdueDayMax": "-1",
+              "rate": "21"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

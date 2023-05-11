@@ -1,0 +1,51 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "user_base_info": {
+      "uid": "108",
+      "name": "Wahyu tri agustin",
+      "phone": "RENC0100|TkE=|JxD7O2iD+thC0/hV0ikolWjC9uWnHyYmEwawgNwMMcQ=",
+      "idcard": "RENC0100|TkE=|grcEvE15Wjtddqa43YIbBS95e32Ps2g+pZiYO0c3n8w=",
+      "level": "A"
+    },
+    "user_detail_info": {
+      "user_type": "employee",
+      "education": "senior high school",
+      "loan_purpose": "Educational expenditure",
+      "month_pay": "3000000",
+      "religion": "MOSLEM",
+      "birthday": "19820813",
+      "marital_status": "Married",
+      "sex": "female",
+      "area": "DKI JAKARTA,KOTA JAKARTA TIMUR,PULO GADUNG,PISANGAN TIMUR,Jl pisangan lama 2 no 15 rt005 rw002",
+      "work_type": "Employee(private)",
+      "company": null,
+      "emergs1_name": "Martuti",
+      "emergs1_phone": "RENC0100|TkE=|8E8jCgINqWMVcyFZT/YFLXt34Qwv7WVsO2ytOuz7fTg=",
+      "emergs1_relation": "Parents",
+      "emergs2_name": "Ratna ning tyas",
+      "emergs2_phone": "RENC0100|TkE=|eSNsoJPtyjRwdSL8+/LNs6jliJvs44f/zwbgkXOyFLE=",
+      "emergs2_relation": "Brother/Sister",
+      "pass_face_photo": "yes",
+      "same_person": "yes",
+      "confidence_score": "74.7870",
+      "realname_status": "no",
+      "ocr_name": "",
+      "ocr_cardno": "",
+      "ocr_area": "",
+      "ocr_status": "no"
+    },
+    "user_material_info": {
+      "idcard_front": "http://rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com/CashApi/180823150758x86Ac1082375098.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555059374&Signature=kN0CVIuQS%2BrNeSorrc2q%2FoTOxZk%3D",
+      "idcard_back": "http://rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com/CashApi/180823150758y2OGC1083804803.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555059374&Signature=qgqRhHKOzu2LvIWTUvn9tF99SuU%3D",
+      "idcard_held": "http://rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com/CashApi/180823150758YoBm41085232663.jpg?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555059374&Signature=rBA75MJfYjNdbMYnQ0aLEqcXISs%3D",
+      "social_card": "",
+      "credit_card": "",
+      "family_card": "",
+      "face_photo_list": [
+        "http://rong-time-app-test.oss-cn-zhangjiakou.aliyuncs.com/h?OSSAccessKeyId=LTAIXblk9hw02x3f&Expires=1555059374&Signature=ELeUBE3uKyuGCQn6MLHOZYhlQJ4%3D"
+      ]
+    }
+  }
+}

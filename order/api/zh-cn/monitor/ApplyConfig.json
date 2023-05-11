@@ -1,0 +1,58 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": [
+    {
+      "id": "1",
+      "channel": "pinjamlah",
+      "apply_start_time": "00:00",
+      "apply_end_time": "00:00",
+      "apply_limit": "400",
+      "apply_term_config": [
+        {
+          "term": "14",
+          "limit": 14
+        },
+        {
+          "term": "30",
+          "limit": 13
+        }
+      ],
+      "apply_switch": "1",
+      "order_switch": "1",
+      "config_term": {
+        "0": "7",
+        "1": "14",
+        "2": "30",
+        "4": "45",
+        "5": "60"
+      }
+    },
+    {
+      "id": "2",
+      "channel": "pinjamlah APP",
+      "apply_start_time": "00:00",
+      "apply_end_time": "23:30",
+      "apply_limit": "100",
+      "apply_term_config": [
+        {
+          "term": "14",
+          "limit": 14
+        },
+        {
+          "term": "30",
+          "limit": 13
+        }
+      ],
+      "apply_switch": "1",
+      "order_switch": "1",
+      "config_term": {
+        "0": "7",
+        "1": "14",
+        "2": "30",
+        "4": "45",
+        "5": "60"
+      }
+    }
+  ]
+}

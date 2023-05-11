@@ -1,0 +1,3 @@
+export const GET_LISTSELECT = 'GET_LISTSELECT'
+export const GET_USERINFO = 'GET_USERINFO'
+export const SET_USERINFO = 'SET_USERINFO'

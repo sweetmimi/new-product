@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "user_name": "Devi",
+    "user_id": "106",
+    "order_no": "255846844362488",
+    "product_id": "pinjamlah",
+    "num_loan": "1",
+    "create_time": "2018-08-24 10:24:31",
+    "confirm_time": "2018-08-24 10:24:53",
+    "application_amount": "RP 500.000",
+    "application_term": "7 天",
+    "loan_actual_amount": "475000",
+    "bill_detail": [
+      {
+        "type_str": "一次性服务费账单",
+        "due_time": "2018-08-23 23:59:59",
+        "success_time": "2018-08-24 10:38:42",
+        "principal": "0",
+        "interest": "0",
+        "service_fee": "25.000",
+        "overdue_interest": "0",
+        "should_pay_total": "25.000",
+        "payed_total": "25.000",
+        "need_pay_total": "0",
+        "status_str": "还款成功",
+        "overdue_day": 0,
+        "remark": ""
+      },
+      {
+        "type_str": "1",
+        "due_time": "2018-08-30 23:59:59",
+        "success_time": "",
+        "principal": "500.000",
+        "interest": "35.000",
+        "service_fee": "0",
+        "overdue_interest": "0",
+        "should_pay_total": "535.000",
+        "payed_total": "0",
+        "need_pay_total": "0",
+        "status_str": "由于账单提前还款而废弃",
+        "overdue_day": 0,
+        "remark": ""
+      },
+      {
+        "type_str": "提前还款账单",
+        "due_time": "2018-08-24 23:59:59",
+        "success_time": "2018-08-24 17:07:09",
+        "principal": "500.000",
+        "interest": "35.000",
+        "service_fee": "0",
+        "overdue_interest": "0",
+        "should_pay_total": "535.000",
+        "payed_total": "535.000",
+        "need_pay_total": "0",
+        "status_str": "还款成功",
+        "overdue_day": 0,
+        "remark": ""
+      }
+    ],
+    "repay_detail": [
+      {
+        "start_time": "2018-08-24 15:08:07",
+        "update_time": "2018-08-24 17:08:09",
+        "pay_channel": "cashcash",
+        "pay_type": "OTC",
+        "amount": "535000",
+        "status": "成功",
+        "fail_desc": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "order_no": 83943984394839,
+        "user_name": "tesst",
+        "productName": "pinjamlah-app",
+        "application_amount": "144545",
+        "application_term": "14天",
+        "create_time": "2018-01-01 12:12:12",
+        "confirm_time": "2018-01-01 12:12:13",
+        "status": "审批中",
+        "is_super":true,
+        "status_value": 8
+      },
+      {
+        "order_no": 83943984394839,
+        "user_name": "tesst",
+        "productName": "pinjamlah-app",
+        "application_amount": "144545",
+        "application_term": "14天",
+        "create_time": "2018-01-01 12:12:12",
+        "confirm_time": "2018-01-01 12:12:13",
+        "status": "审批中",
+        "is_super":true,
+        "status_value": 85
+      },
+      {
+        "order_no": 83943984394839,
+        "user_name": "tesst",
+        "productName": "pinjamlah-app",
+        "application_amount": "144545",
+        "application_term": "14天",
+        "create_time": "2018-01-01 12:12:12",
+        "confirm_time": "2018-01-01 12:12:13",
+        "status": "审批中",
+        "is_super":false,
+        "status_value": 85
+      }
+    ],
+    "arrPager": {
+      "count": 4,
+      "pageSize": 10,
+      "page": 1
+    }
+  }
+}
